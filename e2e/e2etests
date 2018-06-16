@@ -8,6 +8,8 @@ https://docs.docker.com/compose/reference/up/
 
 https://docs.docker.com/compose/compose-file/#depends_on
 
+https://github.com/vishnubob/wait-for-it/blob/master/wait-for-it.sh
+
 
 version: '3'
 services:
